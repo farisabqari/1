@@ -37,5 +37,5 @@ int main() {
     cout << "Status Kelulusann : " << status(rerata(nilM, nilB));
     cout << "\nStatus Kelulusan ke 2 : " << status2(rerata(nilM, nilB), nilM);
     cout << "\nStatus Kelulusan ke 3 : " << status3(rerata(nilM, nilB), nilM, nilB);
-    return;
+    return 0;
 }
